@@ -1,0 +1,16 @@
+Running Log Analysis, Please be patient while we calculate your queries
+---///---///---///---
+Article popularity by total views (Top 3):
+   "Candidate Is Jerk, Alleges Rival" - 338647 views
+   "Bears Love Berries, Alleges Bear" - 253801 views
+   "Bad Things Gone, Say Good People" - 170098 views
+---///---///---///---
+Author popularity by article views (all authors) :
+   Ursula La Multa - 507594 views
+   Rudolf Von Treppenwitz - 423457 views
+   Anonymous Contributor - 170098 views
+   Markoff Chaney - 84557 views
+---///---///---///---
+Days with error rate above 1% :
+   On Jul 17, 2016 - 2.263% of requests were errors
+vagrant@vagrant:/vagrant$
